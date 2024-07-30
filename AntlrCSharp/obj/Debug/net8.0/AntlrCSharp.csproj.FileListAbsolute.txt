@@ -1,0 +1,17 @@
+C:\Users\Luxuria\Desktop\Luxuria\Developer\calc_ANTLR\AntlrCSharp\bin\Debug\net8.0\AntlrCSharp.exe
+C:\Users\Luxuria\Desktop\Luxuria\Developer\calc_ANTLR\AntlrCSharp\bin\Debug\net8.0\AntlrCSharp.deps.json
+C:\Users\Luxuria\Desktop\Luxuria\Developer\calc_ANTLR\AntlrCSharp\bin\Debug\net8.0\AntlrCSharp.runtimeconfig.json
+C:\Users\Luxuria\Desktop\Luxuria\Developer\calc_ANTLR\AntlrCSharp\bin\Debug\net8.0\AntlrCSharp.dll
+C:\Users\Luxuria\Desktop\Luxuria\Developer\calc_ANTLR\AntlrCSharp\bin\Debug\net8.0\AntlrCSharp.pdb
+C:\Users\Luxuria\Desktop\Luxuria\Developer\calc_ANTLR\AntlrCSharp\bin\Debug\net8.0\Antlr4.Runtime.Standard.dll
+C:\Users\Luxuria\Desktop\Luxuria\Developer\calc_ANTLR\AntlrCSharp\obj\Debug\net8.0\AntlrCSharp.csproj.AssemblyReference.cache
+C:\Users\Luxuria\Desktop\Luxuria\Developer\calc_ANTLR\AntlrCSharp\obj\Debug\net8.0\AntlrCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luxuria\Desktop\Luxuria\Developer\calc_ANTLR\AntlrCSharp\obj\Debug\net8.0\AntlrCSharp.AssemblyInfoInputs.cache
+C:\Users\Luxuria\Desktop\Luxuria\Developer\calc_ANTLR\AntlrCSharp\obj\Debug\net8.0\AntlrCSharp.AssemblyInfo.cs
+C:\Users\Luxuria\Desktop\Luxuria\Developer\calc_ANTLR\AntlrCSharp\obj\Debug\net8.0\AntlrCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Luxuria\Desktop\Luxuria\Developer\calc_ANTLR\AntlrCSharp\obj\Debug\net8.0\AntlrCSh.17F4D0D3.Up2Date
+C:\Users\Luxuria\Desktop\Luxuria\Developer\calc_ANTLR\AntlrCSharp\obj\Debug\net8.0\AntlrCSharp.dll
+C:\Users\Luxuria\Desktop\Luxuria\Developer\calc_ANTLR\AntlrCSharp\obj\Debug\net8.0\refint\AntlrCSharp.dll
+C:\Users\Luxuria\Desktop\Luxuria\Developer\calc_ANTLR\AntlrCSharp\obj\Debug\net8.0\AntlrCSharp.pdb
+C:\Users\Luxuria\Desktop\Luxuria\Developer\calc_ANTLR\AntlrCSharp\obj\Debug\net8.0\AntlrCSharp.genruntimeconfig.cache
+C:\Users\Luxuria\Desktop\Luxuria\Developer\calc_ANTLR\AntlrCSharp\obj\Debug\net8.0\ref\AntlrCSharp.dll

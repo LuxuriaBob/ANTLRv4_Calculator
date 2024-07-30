@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b0popjSXGChqCDaluYE9gAVqBZKRyMnCpmAHZNlvZ6lgXIPjtkCgASgSLl/7pD9YBTGWNq9VGLEmUrBDuCKviQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Luxuria\\Desktop\\Luxuria\\Developer\\calc_ANTLR\\AntlrCSharp\\AntlrCSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luxuria\\.nuget\\packages\\antlr4.runtime.standard\\4.13.1\\antlr4.runtime.standard.4.13.1.nupkg.sha512"
+  ],
+  "logs": []
+}
