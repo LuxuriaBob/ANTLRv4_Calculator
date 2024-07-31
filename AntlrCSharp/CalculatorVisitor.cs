@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-// Generated from c://Users//Luxuria//Desktop//Luxuria//Developer//calc_ANTLR//AntlrCSharp//Calculator.g4 by ANTLR 4.13.1
+// Generated from c://Users//Luxuria//Desktop//Luxuria//Developer//ANTLRv4_Calculator//ANTLRv4_Calculator//AntlrCSharp//Calculator.g4 by ANTLR 4.13.1
 
 // Unreachable code detected
 #pragma warning disable 0162
@@ -38,12 +38,26 @@ public interface ICalculatorVisitor<Result> : IParseTreeVisitor<Result> {
 	/// <return>The visitor result.</return>
 	Result VisitProg([NotNull] CalculatorParser.ProgContext context);
 	/// <summary>
-	/// Visit a parse tree produced by the <c>parens</c>
+	/// Visit a parse tree produced by the <c>Tan</c>
 	/// labeled alternative in <see cref="CalculatorParser.expr"/>.
 	/// </summary>
 	/// <param name="context">The parse tree.</param>
 	/// <return>The visitor result.</return>
-	Result VisitParens([NotNull] CalculatorParser.ParensContext context);
+	Result VisitTan([NotNull] CalculatorParser.TanContext context);
+	/// <summary>
+	/// Visit a parse tree produced by the <c>Ln</c>
+	/// labeled alternative in <see cref="CalculatorParser.expr"/>.
+	/// </summary>
+	/// <param name="context">The parse tree.</param>
+	/// <return>The visitor result.</return>
+	Result VisitLn([NotNull] CalculatorParser.LnContext context);
+	/// <summary>
+	/// Visit a parse tree produced by the <c>Log</c>
+	/// labeled alternative in <see cref="CalculatorParser.expr"/>.
+	/// </summary>
+	/// <param name="context">The parse tree.</param>
+	/// <return>The visitor result.</return>
+	Result VisitLog([NotNull] CalculatorParser.LogContext context);
 	/// <summary>
 	/// Visit a parse tree produced by the <c>MulDiv</c>
 	/// labeled alternative in <see cref="CalculatorParser.expr"/>.
@@ -59,10 +73,59 @@ public interface ICalculatorVisitor<Result> : IParseTreeVisitor<Result> {
 	/// <return>The visitor result.</return>
 	Result VisitAddSub([NotNull] CalculatorParser.AddSubContext context);
 	/// <summary>
-	/// Visit a parse tree produced by the <c>int</c>
+	/// Visit a parse tree produced by the <c>Cos</c>
+	/// labeled alternative in <see cref="CalculatorParser.expr"/>.
+	/// </summary>
+	/// <param name="context">The parse tree.</param>
+	/// <return>The visitor result.</return>
+	Result VisitCos([NotNull] CalculatorParser.CosContext context);
+	/// <summary>
+	/// Visit a parse tree produced by the <c>Parens</c>
+	/// labeled alternative in <see cref="CalculatorParser.expr"/>.
+	/// </summary>
+	/// <param name="context">The parse tree.</param>
+	/// <return>The visitor result.</return>
+	Result VisitParens([NotNull] CalculatorParser.ParensContext context);
+	/// <summary>
+	/// Visit a parse tree produced by the <c>Int</c>
 	/// labeled alternative in <see cref="CalculatorParser.expr"/>.
 	/// </summary>
 	/// <param name="context">The parse tree.</param>
 	/// <return>The visitor result.</return>
 	Result VisitInt([NotNull] CalculatorParser.IntContext context);
+	/// <summary>
+	/// Visit a parse tree produced by the <c>Factorial</c>
+	/// labeled alternative in <see cref="CalculatorParser.expr"/>.
+	/// </summary>
+	/// <param name="context">The parse tree.</param>
+	/// <return>The visitor result.</return>
+	Result VisitFactorial([NotNull] CalculatorParser.FactorialContext context);
+	/// <summary>
+	/// Visit a parse tree produced by the <c>Sin</c>
+	/// labeled alternative in <see cref="CalculatorParser.expr"/>.
+	/// </summary>
+	/// <param name="context">The parse tree.</param>
+	/// <return>The visitor result.</return>
+	Result VisitSin([NotNull] CalculatorParser.SinContext context);
+	/// <summary>
+	/// Visit a parse tree produced by the <c>Negate</c>
+	/// labeled alternative in <see cref="CalculatorParser.expr"/>.
+	/// </summary>
+	/// <param name="context">The parse tree.</param>
+	/// <return>The visitor result.</return>
+	Result VisitNegate([NotNull] CalculatorParser.NegateContext context);
+	/// <summary>
+	/// Visit a parse tree produced by the <c>Exp</c>
+	/// labeled alternative in <see cref="CalculatorParser.expr"/>.
+	/// </summary>
+	/// <param name="context">The parse tree.</param>
+	/// <return>The visitor result.</return>
+	Result VisitExp([NotNull] CalculatorParser.ExpContext context);
+	/// <summary>
+	/// Visit a parse tree produced by the <c>Power</c>
+	/// labeled alternative in <see cref="CalculatorParser.expr"/>.
+	/// </summary>
+	/// <param name="context">The parse tree.</param>
+	/// <return>The visitor result.</return>
+	Result VisitPower([NotNull] CalculatorParser.PowerContext context);
 }

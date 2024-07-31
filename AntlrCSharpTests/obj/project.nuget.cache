@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4exaV/5D/x74dQ2fQHXqSPIKbJgA6hwAWUx3ndSJxe2Pxs5rIZJiQGT6szEOBiYVrth0y6cT4V7CaQU2AG1O8Q==",
+  "dgSpecHash": "6F0tqhhjVXBiLSFJfl3KrAAsIiPGhSzzxcxU3KWoUQleihtRxmzj8KCLv6EubHZ3TrXdwe0dW2/RbwnyqP6fBg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Luxuria\\Desktop\\Luxuria\\Developer\\calc_ANTLR\\AntlrCSharpTests\\AntlrCSharpTests.csproj",
+  "projectFilePath": "C:\\Users\\Luxuria\\Desktop\\Luxuria\\Developer\\ANTLRv4_Calculator\\ANTLRv4_Calculator\\AntlrCSharpTests\\AntlrCSharpTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luxuria\\.nuget\\packages\\antlr4.runtime.standard\\4.13.1\\antlr4.runtime.standard.4.13.1.nupkg.sha512",
     "C:\\Users\\Luxuria\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",

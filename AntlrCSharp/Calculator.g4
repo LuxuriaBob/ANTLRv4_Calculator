@@ -17,10 +17,19 @@ grammar Calculator;
  
 prog: expr+ ;
  
-expr : expr op=('*'|'/') expr   # MulDiv
+expr : expr '!'                 # Factorial
+     | 'log' '(' expr ')'       # Log
+     | 'ln' '(' expr ')'        # Ln
+     | 'exp' '(' expr ')'       # Exp
+     | 'sin' '(' expr ')'       # Sin
+     | 'cos' '(' expr ')'       # Cos
+     | 'tan' '(' expr ')'       # Tan
+     | '-' expr                 # Negate
+     | expr '^' expr            # Power
+     | expr op=('*'|'/') expr   # MulDiv
      | expr op=('+'|'-') expr   # AddSub
-     | INT                  # int
-     | '(' expr ')'         # parens
+     | INT                      # Int
+     | '(' expr ')'             # Parens
      ;
  
 /*
@@ -31,6 +40,7 @@ MUL : '*';
 DIV : '/';
 ADD : '+';
 SUB : '-';
+POW : '^';
 WS
     :   (' ' | '\r' | '\n') -> channel(HIDDEN)
     ;
